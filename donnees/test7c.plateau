@@ -1,0 +1,62 @@
+plateau;5
+joueur;1;superman;43
+avatar;2;3
+serveur;3
+ordinateurs;4
+trojans entrants
+trojans sortants
+H
+B
+D
+G
+matrice
+case;0;0
+protection
+trojans presents
+3;0;B
+trojans entrants
+3;0;H
+case;0;2
+protection
+trojans presents
+trojans entrants
+3;2;B
+case;0;3
+protection;1;2
+trojans presents
+trojans entrants
+3;0;G
+2;0;G
+case;0;4
+protection
+trojans presents
+3;0;G
+2;0;G
+trojans entrants
+case;1;0
+protection
+trojans presents
+3;0;H
+trojans entrants
+3;0;B
+case;1;1
+protection
+trojans presents
+3;1;B
+trojans entrants
+case;2;1
+protection
+trojans presents
+trojans entrants
+3;1;B
+case;3;2
+protection
+trojans presents
+trojans entrants
+2;3;G
+case;3;3
+protection
+trojans presents
+2;3;G
+trojans entrants
+fin plateau

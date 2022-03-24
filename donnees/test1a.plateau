@@ -1,0 +1,19 @@
+plateau;5
+joueur;1;superman;5
+avatar;1;1
+serveur;4
+ordinateurs;5
+trojans entrants
+3;4;B
+trojans sortants
+H
+B
+D
+G
+matrice
+case;0;1
+protection
+trojans presents
+3;1;B
+trojans entrants
+fin plateau

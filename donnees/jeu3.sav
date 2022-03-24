@@ -1,0 +1,108 @@
+3;-1;O
+||----||
+plateau;5
+joueur;1;Joueur A;21
+avatar;2;1
+serveur;40
+ordinateurs;50
+trojans entrants
+trojans sortants
+H
+B
+D
+G
+matrice
+case;0;3
+protection
+trojans presents
+3;3;B
+trojans entrants
+case;1;0
+protection
+trojans presents
+3;1;G
+trojans entrants
+case;1;1
+protection;2;1
+trojans presents
+trojans entrants
+fin plateau
+
+||----||
+plateau;5
+joueur;2;Joueur B;7
+avatar;2;1
+serveur;39
+ordinateurs;50
+trojans entrants
+trojans sortants
+H
+B
+D
+G
+matrice
+case;1;0
+protection
+trojans presents
+2;1;D
+trojans entrants
+case;2;2
+protection;1;1
+trojans presents
+trojans entrants
+case;2;3
+protection
+trojans presents
+3;1;G
+trojans entrants
+case;4;4
+protection
+trojans presents
+3;4;G
+trojans entrants
+fin plateau
+
+||----||
+plateau;5
+joueur;3;Joueur C;24
+avatar;1;2
+serveur;40
+ordinateurs;50
+trojans entrants
+trojans sortants
+H
+B
+D
+G
+matrice
+fin plateau
+
+||----||
+plateau;5
+joueur;4;Joueur D;5
+avatar;3;2
+serveur;40
+ordinateurs;50
+trojans entrants
+trojans sortants
+H
+B
+D
+G
+matrice
+case;1;0
+protection
+trojans presents
+3;1;D
+trojans entrants
+case;1;1
+protection
+trojans presents
+3;1;D
+trojans entrants
+case;1;3
+protection
+trojans presents
+1;0;B
+trojans entrants
+fin plateau
